@@ -1,5 +1,7 @@
+Cython
 fastapi
 uvicorn
 pydub
 madmom
 python-multipart
+
